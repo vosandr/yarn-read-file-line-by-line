@@ -1,0 +1,14 @@
+{
+  "name": "yarn-repo-starter",
+  "version": "1.0.0",
+  "main": "./src/app.ts",
+  "author": "Vosirandr <vosirandr@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsx src/app"
+  },
+  "devDependencies": {
+    "tsx": "^3.13.0",
+    "typescript": "^5.2.2"
+  }
+}
